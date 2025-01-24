@@ -7,7 +7,7 @@ export default {
   theme: {
     extend: {
       backgroundImage: {
-        'app-blue-bg': "url('bg-blue-mirror.png')",
+        'app-blue-bg': "url('/bg-blue-mirror.png')",
       },
     },
   },
